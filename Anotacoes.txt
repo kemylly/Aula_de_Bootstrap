@@ -1,0 +1,19 @@
+Bootstrap
+
+- Se trata de um Framework para desenvolvimento de sites responsivos
+- Possui uma vasta biblioteca de componentes
+- é um dos framwork mais conhecidos
+
+
+div
+container
+row
+sao sempre 12 colunas
+ex: col-lg-4
+
+.col-xs-6  col-xs-6
+        .row
+     .container
+
+"min" é um arquivo menor. Nao tem os espacos que normalmente um arquivo
+css tem. Assim fica mais compato e deixa sua pagina mais rapida.
